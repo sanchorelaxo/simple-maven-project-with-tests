@@ -5,6 +5,10 @@
     <artifactId>simple-maven-project-with-tests</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <scm>
+         <connection> scm:git:https://github.com/sanchorelaxo/simple-maven-project-with-tests </ connection>
+         <developerConnection>scm:git:https://github.com/sanchorelaxo/simple-maven-project-with-tests</developerConnection>
+    </ scm>
     <licenses>
         <license>
             <name>MIT License</name>
